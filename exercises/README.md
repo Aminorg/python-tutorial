@@ -101,7 +101,12 @@ y = int(input())
 print(x+y)
 #www.coffeete.ir/mohammadkah
 ```
-
+محمد امین مهدی زاده: 
+```python
+x=int(input())
+y=int(input())
+print(x+y)
+```
 </details>
 
 ---
